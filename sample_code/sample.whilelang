@@ -1,0 +1,10 @@
+{
+   f = 8;
+   while( f > 2 )
+   {
+        println( "f = " , f );
+        f = f - 1;
+   }
+   println( "final f is " , f );
+   println( "final f is f" , f );
+}

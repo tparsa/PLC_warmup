@@ -1,0 +1,7 @@
+b = 1
+c = 2
+d = 1
+a = ( ( ( 2 * b ) - c ) && ( d + !c ) ) || ( d % c );
+if( a == 2 )
+    println( "a" , a );
+println( "we all are freshmen , so a is " , a );
